@@ -1,0 +1,7 @@
+C:\Users\humble lion\Documents\ProgrammingII\Exam2\Exam2\bin\Debug\Exam2.exe.config
+C:\Users\humble lion\Documents\ProgrammingII\Exam2\Exam2\bin\Debug\Exam2.exe
+C:\Users\humble lion\Documents\ProgrammingII\Exam2\Exam2\bin\Debug\Exam2.pdb
+C:\Users\humble lion\Documents\ProgrammingII\Exam2\Exam2\obj\Debug\Exam2.csproj.AssemblyReference.cache
+C:\Users\humble lion\Documents\ProgrammingII\Exam2\Exam2\obj\Debug\Exam2.csproj.CoreCompileInputs.cache
+C:\Users\humble lion\Documents\ProgrammingII\Exam2\Exam2\obj\Debug\Exam2.exe
+C:\Users\humble lion\Documents\ProgrammingII\Exam2\Exam2\obj\Debug\Exam2.pdb

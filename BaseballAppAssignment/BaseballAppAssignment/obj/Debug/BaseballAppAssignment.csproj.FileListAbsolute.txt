@@ -1,0 +1,13 @@
+C:\Users\humble lion\Documents\ProgrammingII\BaseballAppAssignment\BaseballAppAssignment\bin\Debug\Baseball.mdf
+C:\Users\humble lion\Documents\ProgrammingII\BaseballAppAssignment\BaseballAppAssignment\bin\Debug\Baseball_log.ldf
+C:\Users\humble lion\Documents\ProgrammingII\BaseballAppAssignment\BaseballAppAssignment\bin\Debug\BaseballAppAssignment.exe.config
+C:\Users\humble lion\Documents\ProgrammingII\BaseballAppAssignment\BaseballAppAssignment\bin\Debug\BaseballAppAssignment.exe
+C:\Users\humble lion\Documents\ProgrammingII\BaseballAppAssignment\BaseballAppAssignment\bin\Debug\BaseballAppAssignment.pdb
+C:\Users\humble lion\Documents\ProgrammingII\BaseballAppAssignment\BaseballAppAssignment\bin\Debug\EntityFramework.dll
+C:\Users\humble lion\Documents\ProgrammingII\BaseballAppAssignment\BaseballAppAssignment\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\humble lion\Documents\ProgrammingII\BaseballAppAssignment\BaseballAppAssignment\bin\Debug\EntityFramework.xml
+C:\Users\humble lion\Documents\ProgrammingII\BaseballAppAssignment\BaseballAppAssignment\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\humble lion\Documents\ProgrammingII\BaseballAppAssignment\BaseballAppAssignment\obj\Debug\BaseballAppAssignment.csproj.AssemblyReference.cache
+C:\Users\humble lion\Documents\ProgrammingII\BaseballAppAssignment\BaseballAppAssignment\obj\Debug\BaseballAppAssignment.csproj.CoreCompileInputs.cache
+C:\Users\humble lion\Documents\ProgrammingII\BaseballAppAssignment\BaseballAppAssignment\obj\Debug\BaseballAppAssignment.exe
+C:\Users\humble lion\Documents\ProgrammingII\BaseballAppAssignment\BaseballAppAssignment\obj\Debug\BaseballAppAssignment.pdb

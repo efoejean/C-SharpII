@@ -1,0 +1,7 @@
+C:\Users\humble lion\Documents\ProgrammingII\CourseApp\CourseApp\bin\Debug\CourseApp.exe.config
+C:\Users\humble lion\Documents\ProgrammingII\CourseApp\CourseApp\bin\Debug\CourseApp.exe
+C:\Users\humble lion\Documents\ProgrammingII\CourseApp\CourseApp\bin\Debug\CourseApp.pdb
+C:\Users\humble lion\Documents\ProgrammingII\CourseApp\CourseApp\obj\Debug\CourseApp.csprojAssemblyReference.cache
+C:\Users\humble lion\Documents\ProgrammingII\CourseApp\CourseApp\obj\Debug\CourseApp.csproj.CoreCompileInputs.cache
+C:\Users\humble lion\Documents\ProgrammingII\CourseApp\CourseApp\obj\Debug\CourseApp.exe
+C:\Users\humble lion\Documents\ProgrammingII\CourseApp\CourseApp\obj\Debug\CourseApp.pdb

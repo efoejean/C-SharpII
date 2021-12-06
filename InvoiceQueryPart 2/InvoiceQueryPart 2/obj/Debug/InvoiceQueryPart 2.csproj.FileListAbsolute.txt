@@ -1,0 +1,7 @@
+C:\Users\humble lion\Documents\ProgrammingII\InvoiceQueryPart 2\InvoiceQueryPart 2\bin\Debug\InvoiceQueryPart 2.exe.config
+C:\Users\humble lion\Documents\ProgrammingII\InvoiceQueryPart 2\InvoiceQueryPart 2\bin\Debug\InvoiceQueryPart 2.exe
+C:\Users\humble lion\Documents\ProgrammingII\InvoiceQueryPart 2\InvoiceQueryPart 2\bin\Debug\InvoiceQueryPart 2.pdb
+C:\Users\humble lion\Documents\ProgrammingII\InvoiceQueryPart 2\InvoiceQueryPart 2\obj\Debug\InvoiceQueryPart 2.csproj.AssemblyReference.cache
+C:\Users\humble lion\Documents\ProgrammingII\InvoiceQueryPart 2\InvoiceQueryPart 2\obj\Debug\InvoiceQueryPart 2.csproj.CoreCompileInputs.cache
+C:\Users\humble lion\Documents\ProgrammingII\InvoiceQueryPart 2\InvoiceQueryPart 2\obj\Debug\InvoiceQueryPart 2.exe
+C:\Users\humble lion\Documents\ProgrammingII\InvoiceQueryPart 2\InvoiceQueryPart 2\obj\Debug\InvoiceQueryPart 2.pdb

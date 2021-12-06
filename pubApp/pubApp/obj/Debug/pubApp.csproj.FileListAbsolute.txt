@@ -1,0 +1,7 @@
+C:\Users\humble lion\Documents\ProgrammingII\pubApp\pubApp\bin\Debug\pubApp.exe.config
+C:\Users\humble lion\Documents\ProgrammingII\pubApp\pubApp\bin\Debug\pubApp.exe
+C:\Users\humble lion\Documents\ProgrammingII\pubApp\pubApp\bin\Debug\pubApp.pdb
+C:\Users\humble lion\Documents\ProgrammingII\pubApp\pubApp\obj\Debug\pubApp.csproj.AssemblyReference.cache
+C:\Users\humble lion\Documents\ProgrammingII\pubApp\pubApp\obj\Debug\pubApp.csproj.CoreCompileInputs.cache
+C:\Users\humble lion\Documents\ProgrammingII\pubApp\pubApp\obj\Debug\pubApp.exe
+C:\Users\humble lion\Documents\ProgrammingII\pubApp\pubApp\obj\Debug\pubApp.pdb

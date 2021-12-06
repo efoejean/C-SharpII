@@ -1,0 +1,7 @@
+C:\Users\humble lion\Documents\ProgrammingII\EmployeeAppII\EmployeeAppII\bin\Debug\EmployeeAppII.exe.config
+C:\Users\humble lion\Documents\ProgrammingII\EmployeeAppII\EmployeeAppII\bin\Debug\EmployeeAppII.exe
+C:\Users\humble lion\Documents\ProgrammingII\EmployeeAppII\EmployeeAppII\bin\Debug\EmployeeAppII.pdb
+C:\Users\humble lion\Documents\ProgrammingII\EmployeeAppII\EmployeeAppII\obj\Debug\EmployeeAppII.csprojAssemblyReference.cache
+C:\Users\humble lion\Documents\ProgrammingII\EmployeeAppII\EmployeeAppII\obj\Debug\EmployeeAppII.csproj.CoreCompileInputs.cache
+C:\Users\humble lion\Documents\ProgrammingII\EmployeeAppII\EmployeeAppII\obj\Debug\EmployeeAppII.exe
+C:\Users\humble lion\Documents\ProgrammingII\EmployeeAppII\EmployeeAppII\obj\Debug\EmployeeAppII.pdb

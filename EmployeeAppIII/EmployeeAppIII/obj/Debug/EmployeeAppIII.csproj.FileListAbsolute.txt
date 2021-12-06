@@ -1,0 +1,7 @@
+C:\Users\humble lion\Documents\ProgrammingII\EmployeeAppIII\EmployeeAppIII\bin\Debug\EmployeeAppIII.exe.config
+C:\Users\humble lion\Documents\ProgrammingII\EmployeeAppIII\EmployeeAppIII\bin\Debug\EmployeeAppIII.exe
+C:\Users\humble lion\Documents\ProgrammingII\EmployeeAppIII\EmployeeAppIII\bin\Debug\EmployeeAppIII.pdb
+C:\Users\humble lion\Documents\ProgrammingII\EmployeeAppIII\EmployeeAppIII\obj\Debug\EmployeeAppIII.csproj.CoreCompileInputs.cache
+C:\Users\humble lion\Documents\ProgrammingII\EmployeeAppIII\EmployeeAppIII\obj\Debug\EmployeeAppIII.exe
+C:\Users\humble lion\Documents\ProgrammingII\EmployeeAppIII\EmployeeAppIII\obj\Debug\EmployeeAppIII.pdb
+C:\Users\humble lion\Documents\ProgrammingII\EmployeeAppIII\EmployeeAppIII\obj\Debug\EmployeeAppIII.csproj.AssemblyReference.cache

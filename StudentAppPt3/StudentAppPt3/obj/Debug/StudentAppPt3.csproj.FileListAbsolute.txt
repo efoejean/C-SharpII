@@ -1,0 +1,7 @@
+C:\Users\humble lion\Documents\ProgrammingII\StudentAppPt3\StudentAppPt3\bin\Debug\StudentAppPt3.exe.config
+C:\Users\humble lion\Documents\ProgrammingII\StudentAppPt3\StudentAppPt3\bin\Debug\StudentAppPt3.exe
+C:\Users\humble lion\Documents\ProgrammingII\StudentAppPt3\StudentAppPt3\bin\Debug\StudentAppPt3.pdb
+C:\Users\humble lion\Documents\ProgrammingII\StudentAppPt3\StudentAppPt3\obj\Debug\StudentAppPt3.csprojAssemblyReference.cache
+C:\Users\humble lion\Documents\ProgrammingII\StudentAppPt3\StudentAppPt3\obj\Debug\StudentAppPt3.csproj.CoreCompileInputs.cache
+C:\Users\humble lion\Documents\ProgrammingII\StudentAppPt3\StudentAppPt3\obj\Debug\StudentAppPt3.exe
+C:\Users\humble lion\Documents\ProgrammingII\StudentAppPt3\StudentAppPt3\obj\Debug\StudentAppPt3.pdb

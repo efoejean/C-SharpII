@@ -1,0 +1,7 @@
+C:\Users\humble lion\Documents\ProgrammingII\DelegateDemo\DelegateDemo\bin\Debug\DelegateDemo.exe.config
+C:\Users\humble lion\Documents\ProgrammingII\DelegateDemo\DelegateDemo\bin\Debug\DelegateDemo.exe
+C:\Users\humble lion\Documents\ProgrammingII\DelegateDemo\DelegateDemo\bin\Debug\DelegateDemo.pdb
+C:\Users\humble lion\Documents\ProgrammingII\DelegateDemo\DelegateDemo\obj\Debug\DelegateDemo.csproj.AssemblyReference.cache
+C:\Users\humble lion\Documents\ProgrammingII\DelegateDemo\DelegateDemo\obj\Debug\DelegateDemo.csproj.CoreCompileInputs.cache
+C:\Users\humble lion\Documents\ProgrammingII\DelegateDemo\DelegateDemo\obj\Debug\DelegateDemo.exe
+C:\Users\humble lion\Documents\ProgrammingII\DelegateDemo\DelegateDemo\obj\Debug\DelegateDemo.pdb

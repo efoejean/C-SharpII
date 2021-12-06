@@ -1,0 +1,13 @@
+C:\Users\humble lion\Documents\ProgrammingII\EmployeeApp\EmployeeApp\bin\Debug\netcoreapp3.1\EmployeeApp.exe
+C:\Users\humble lion\Documents\ProgrammingII\EmployeeApp\EmployeeApp\bin\Debug\netcoreapp3.1\EmployeeApp.deps.json
+C:\Users\humble lion\Documents\ProgrammingII\EmployeeApp\EmployeeApp\bin\Debug\netcoreapp3.1\EmployeeApp.runtimeconfig.json
+C:\Users\humble lion\Documents\ProgrammingII\EmployeeApp\EmployeeApp\bin\Debug\netcoreapp3.1\EmployeeApp.runtimeconfig.dev.json
+C:\Users\humble lion\Documents\ProgrammingII\EmployeeApp\EmployeeApp\bin\Debug\netcoreapp3.1\EmployeeApp.dll
+C:\Users\humble lion\Documents\ProgrammingII\EmployeeApp\EmployeeApp\bin\Debug\netcoreapp3.1\EmployeeApp.pdb
+C:\Users\humble lion\Documents\ProgrammingII\EmployeeApp\EmployeeApp\obj\Debug\netcoreapp3.1\EmployeeApp.csprojAssemblyReference.cache
+C:\Users\humble lion\Documents\ProgrammingII\EmployeeApp\EmployeeApp\obj\Debug\netcoreapp3.1\EmployeeApp.AssemblyInfoInputs.cache
+C:\Users\humble lion\Documents\ProgrammingII\EmployeeApp\EmployeeApp\obj\Debug\netcoreapp3.1\EmployeeApp.AssemblyInfo.cs
+C:\Users\humble lion\Documents\ProgrammingII\EmployeeApp\EmployeeApp\obj\Debug\netcoreapp3.1\EmployeeApp.csproj.CoreCompileInputs.cache
+C:\Users\humble lion\Documents\ProgrammingII\EmployeeApp\EmployeeApp\obj\Debug\netcoreapp3.1\EmployeeApp.dll
+C:\Users\humble lion\Documents\ProgrammingII\EmployeeApp\EmployeeApp\obj\Debug\netcoreapp3.1\EmployeeApp.pdb
+C:\Users\humble lion\Documents\ProgrammingII\EmployeeApp\EmployeeApp\obj\Debug\netcoreapp3.1\EmployeeApp.genruntimeconfig.cache

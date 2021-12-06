@@ -1,0 +1,13 @@
+C:\Users\humble lion\Documents\ProgrammingII\EFBooks\EFBooks\bin\Debug\Books.mdf
+C:\Users\humble lion\Documents\ProgrammingII\EFBooks\EFBooks\bin\Debug\Books_log.ldf
+C:\Users\humble lion\Documents\ProgrammingII\EFBooks\EFBooks\bin\Debug\EFBooks.exe.config
+C:\Users\humble lion\Documents\ProgrammingII\EFBooks\EFBooks\bin\Debug\EFBooks.exe
+C:\Users\humble lion\Documents\ProgrammingII\EFBooks\EFBooks\bin\Debug\EFBooks.pdb
+C:\Users\humble lion\Documents\ProgrammingII\EFBooks\EFBooks\bin\Debug\EntityFramework.dll
+C:\Users\humble lion\Documents\ProgrammingII\EFBooks\EFBooks\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\humble lion\Documents\ProgrammingII\EFBooks\EFBooks\bin\Debug\EntityFramework.xml
+C:\Users\humble lion\Documents\ProgrammingII\EFBooks\EFBooks\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\humble lion\Documents\ProgrammingII\EFBooks\EFBooks\obj\Debug\EFBooks.csproj.AssemblyReference.cache
+C:\Users\humble lion\Documents\ProgrammingII\EFBooks\EFBooks\obj\Debug\EFBooks.csproj.CoreCompileInputs.cache
+C:\Users\humble lion\Documents\ProgrammingII\EFBooks\EFBooks\obj\Debug\EFBooks.exe
+C:\Users\humble lion\Documents\ProgrammingII\EFBooks\EFBooks\obj\Debug\EFBooks.pdb

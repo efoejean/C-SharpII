@@ -1,0 +1,7 @@
+C:\Users\humble lion\Documents\ProgrammingII\PayrollSystemModification\PayrollSystemModification\bin\Debug\PayrollSystemModification.exe.config
+C:\Users\humble lion\Documents\ProgrammingII\PayrollSystemModification\PayrollSystemModification\bin\Debug\PayrollSystemModification.exe
+C:\Users\humble lion\Documents\ProgrammingII\PayrollSystemModification\PayrollSystemModification\bin\Debug\PayrollSystemModification.pdb
+C:\Users\humble lion\Documents\ProgrammingII\PayrollSystemModification\PayrollSystemModification\obj\Debug\PayrollSystemModification.csproj.AssemblyReference.cache
+C:\Users\humble lion\Documents\ProgrammingII\PayrollSystemModification\PayrollSystemModification\obj\Debug\PayrollSystemModification.csproj.CoreCompileInputs.cache
+C:\Users\humble lion\Documents\ProgrammingII\PayrollSystemModification\PayrollSystemModification\obj\Debug\PayrollSystemModification.exe
+C:\Users\humble lion\Documents\ProgrammingII\PayrollSystemModification\PayrollSystemModification\obj\Debug\PayrollSystemModification.pdb

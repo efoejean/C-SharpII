@@ -1,0 +1,7 @@
+C:\Users\humble lion\Documents\ProgrammingII\LINQtoObject\LINQtoObject\bin\Debug\LINQtoObject.exe.config
+C:\Users\humble lion\Documents\ProgrammingII\LINQtoObject\LINQtoObject\bin\Debug\LINQtoObject.exe
+C:\Users\humble lion\Documents\ProgrammingII\LINQtoObject\LINQtoObject\bin\Debug\LINQtoObject.pdb
+C:\Users\humble lion\Documents\ProgrammingII\LINQtoObject\LINQtoObject\obj\Debug\LINQtoObject.csprojAssemblyReference.cache
+C:\Users\humble lion\Documents\ProgrammingII\LINQtoObject\LINQtoObject\obj\Debug\LINQtoObject.csproj.CoreCompileInputs.cache
+C:\Users\humble lion\Documents\ProgrammingII\LINQtoObject\LINQtoObject\obj\Debug\LINQtoObject.exe
+C:\Users\humble lion\Documents\ProgrammingII\LINQtoObject\LINQtoObject\obj\Debug\LINQtoObject.pdb

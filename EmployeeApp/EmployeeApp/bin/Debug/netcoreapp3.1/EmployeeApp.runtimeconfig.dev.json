@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\humble lion\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\humble lion\\.nuget\\packages"
+    ]
+  }
+}

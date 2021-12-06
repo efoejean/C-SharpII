@@ -1,0 +1,7 @@
+C:\Users\humble lion\Documents\ProgrammingII\ShapesHierarchy\ShapesHierarchy\bin\Debug\ShapesHierarchy.exe.config
+C:\Users\humble lion\Documents\ProgrammingII\ShapesHierarchy\ShapesHierarchy\bin\Debug\ShapesHierarchy.exe
+C:\Users\humble lion\Documents\ProgrammingII\ShapesHierarchy\ShapesHierarchy\bin\Debug\ShapesHierarchy.pdb
+C:\Users\humble lion\Documents\ProgrammingII\ShapesHierarchy\ShapesHierarchy\obj\Debug\ShapesHierarchy.csproj.AssemblyReference.cache
+C:\Users\humble lion\Documents\ProgrammingII\ShapesHierarchy\ShapesHierarchy\obj\Debug\ShapesHierarchy.csproj.CoreCompileInputs.cache
+C:\Users\humble lion\Documents\ProgrammingII\ShapesHierarchy\ShapesHierarchy\obj\Debug\ShapesHierarchy.exe
+C:\Users\humble lion\Documents\ProgrammingII\ShapesHierarchy\ShapesHierarchy\obj\Debug\ShapesHierarchy.pdb
